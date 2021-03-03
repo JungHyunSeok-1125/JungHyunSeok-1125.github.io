@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Jung Hyun Seok
+# 정현석의 github 홈페이지<br>
+## 이 페이지는?
+github 기본 사용법 페이지 입니다.
+## 자기소개
+<img src="Photo.jpg"/><br>
+## 정현석
+## 94.11.25
+<br>
+## github 기본사용법 동영상
+<iframe width="1280" height="654" src="https://www.youtube.com/embed/NTCPO2GEilE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+## 집(거주지)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3163.232086882025!2d126.97746821564768!3d37.54959543285513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca25c8aced3a3%3A0xf5f228ca44cfbd6e!2z7ISc7Jq47Yq567OE7IucIOyaqeyCsOq1rCDtm4TslZTrj5kgNTUtOCAy7Li1!5e0!3m2!1sko!2skr!4v1614781205861!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-You can use the [editor on GitHub](https://github.com/JungHyunSeok-1125/JungHyunSeok-1125.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JungHyunSeok-1125/JungHyunSeok-1125.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<br>
+<br>
+<br>
+## 페이지 바로가기
+[내 페이지 바로가기](https://junghyunseok-1125.github.io/)
+[내 유튜브 채널 바로가기](https://junghyunseok-1125.github.io/)
