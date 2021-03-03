@@ -18,4 +18,4 @@ github 기본 사용법 페이지 입니다.
 <br>
 ## 페이지 바로가기
 [내 페이지 바로가기](https://junghyunseok-1125.github.io/)<br>
-[내 유튜브 채널 바로가기](https://junghyunseok-1125.github.io/)
+[내 유튜브 채널 바로가기](https://www.youtube.com/watch?v=NTCPO2GEilE)
